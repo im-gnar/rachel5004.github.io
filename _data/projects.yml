@@ -1,0 +1,16 @@
+# Project template
+- layout: top-middle
+  name: 관리 시스템
+  #  link:
+  #  github:
+  quote: |
+    2023.12 ~ 현재
+    <br>
+    <a href="https://ironcladapp.com/" target="_blank">Ironclad</a>로 체결되는 작가 계약의 정산을 자동화하고, 최종적으로는 계약과 관련된 모든 프로세스의 내제화를 목표로 프로젝트입니다.
+
+  description: |
+    * **강조** 프로젝트 환경 구축
+      * <a href="https://naver.com" target="_blank">링크링크</a>
+    * a
+      * b
+      * b

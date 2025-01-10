@@ -1,0 +1,13 @@
+- layout: left
+  name: 정보처리기사
+  dates: 2022.06
+  #  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 한국산업인력공단
+- layout: left
+  name: Smilegate Devcamp
+  dates: 2021.03 ~ 2021.11
+  link: https://www.smilegate.com/ko/
+  #  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 3기 수료
